@@ -119,7 +119,7 @@ Constributor | For Help |
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](https://a.top4top.io/p_23779qtrw1.jpg?size=100)](https://github.com/Xavior88) 
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](https://github.com/account?size=100)](https://github.com/Xavior88) 
 [Adiwajshing](https://github.com/adiwajshing) | [xavior](https://github.com/Xavior88)
 Owner of Baileys | Owner of Api Alphabot | 
 
