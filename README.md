@@ -96,7 +96,7 @@ global.sessionName = 'session'
 </p>
 
 ## Donate
-- [Saweria](bit.ly/nanang13)
+- [Saweria](https://saweria.co/nanang13?utm_source=Nanang13&utm_medium=Nanang13)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
