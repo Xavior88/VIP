@@ -67,12 +67,12 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.botname = "XaviorBot-Mdོ"
+global.ownername= "Nanang©️"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
+global.youtube = "https://youtube.com/c/Zeeoneofc"
+global.github = "https://xavior88.github.io/"
+global.email = "xavior@gmail.com"
 global.region = "Indonesia"
 global.ownernomer = "62887435047326"
 global.ownernomerr = "+62887435047326"
