@@ -97,7 +97,7 @@ global.sessionName = 'session'
 
 ## Donate
 - [Saweria](https://saweria.co/nanang13?utm_source=Nanang13&utm_medium=Nanang13)
-- [Shoppepay](https://j.top4top.io/p_20532posd1.jpg)
+- [Shoppepay](https://a.top4top.io/p_23779qtrw1.jpg)
 
 
 
