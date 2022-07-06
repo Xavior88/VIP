@@ -97,9 +97,9 @@ global.sessionName = 'session'
 
 ## Donate
 - [Saweria](https://saweria.co/nanang13?utm_source=Nanang13&utm_medium=Nanang13)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Shoppepay](https://j.top4top.io/p_20532posd1.jpg)
+
+
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
